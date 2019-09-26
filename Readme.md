@@ -1,4 +1,4 @@
-In this Project,linear regression is used to predict life expectancy from body mass index (BMI). 
+In this Project, Linear Regression is used to predict life expectancy from body mass index (BMI). 
 The data is obtained from Gapminder which has average life expectancy at birth and the average BMI for males across the world.
 
 The data file can be found under the "bmi_and_life_expectancy.csv" tab in the below. It includes three columns, containing the following data:
